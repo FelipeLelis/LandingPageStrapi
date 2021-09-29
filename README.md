@@ -1,3 +1,2 @@
-# Strapi application
+# Aplicação utilizando Strapi
 
-A quick description of your strapi application
